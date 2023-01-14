@@ -1,6 +1,7 @@
 """
 Author: Benedikt Fichtner
 Python-Version: 3.8.10
+Matrices Calculator
 """
 import math,random,argparse,sys
 from rich import (pretty,console as cons)
