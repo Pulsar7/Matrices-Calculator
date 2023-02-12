@@ -1,0 +1,112 @@
+{
+    "Calc": {
+
+    },
+
+    "Content": {
+        "Main": {
+            "title": "Matrix Calculator / GUI - Version 1.0"
+        },
+
+        "Tabs": {
+            "Matrix-Input": {
+                "title": "Matrix input",
+                "set_matrices_btn": {
+                    "text": "Set matrices"
+                },
+                "input_frame": {
+                    "title": "Input",
+                    "max_columns": 15,
+                    "max_rows": 15
+                },
+                "ask_for_dim_frame": {
+                    "matrix_A_dim_frame": {
+                        "title": "Matrix A"
+                    },
+                    "matrix_B_dim_frame": {
+                        "title": "Matrix B"
+                    },
+                    "set_btn": {
+                        "text": "Set dimension of matrices"
+                    }
+                }
+            },
+
+            "Multiplication": {
+                "title": "Matrix multiplication",
+                "multiply_btn": {
+                    "text": "Multiply matrices"
+                },
+                "output_frame": {
+                    "title": "Output"
+                }
+            }
+        }
+    },
+
+    "Style": {
+        "Main": {
+            "appearance_mode": "dark",
+            "default_color_theme": "blue",
+            "min_width": 1500,
+            "min_height": 850,
+            "error_frame": {
+                "error_label": {
+                    "font": ["Serif",15],
+                    "text_color": "red3"
+                }
+            }
+        },
+
+        "Tabs": {
+            "Matrix-Input": {
+                "title": {
+                    "font": ["Monospace",19]
+                },
+                "input_frame": {
+                    "title": {
+                        "font": ["Monospace",15]
+                    },
+                    "fg_color": "transparent",
+                    "matrix_input_frame1": {
+                        "fg_color": "transparent"
+                    },
+                    "matrix_input_frame2": {
+                        "fg_color": "transparent"
+                    }
+                },
+                "ask_for_dim_frame": {
+                    "fg_color": "transparent",
+                    "matrix_A_dim_frame": {
+                        "fg_color": "transparent",
+                        "entry": {
+                            "font": ["Sans Serif",15]
+                        }
+                    },
+                    "matrix_B_dim_frame": {
+                        "fg_color": "transparent",
+                        "entry": {
+                            "font": ["Arial",15]
+                        }
+                    }
+                }
+            },
+
+            "Multiplication": {
+                "title": {
+                    "font": ["Monospace",19]
+                },
+                "output_frame": {
+                    "title": {
+                        "font": ["Monospace",15]
+                    },
+                    "output_textbox": {
+                        "fg_color": "black",
+                        "font": ["Monospace",13],
+                        "text_color": "royalblue"
+                    }
+                }
+            }
+        }
+    }
+}
