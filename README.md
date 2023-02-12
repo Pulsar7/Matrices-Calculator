@@ -2,7 +2,7 @@
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/dmhendricks/file-icon-vectors.svg?style=social)](https://twitter.com/SevenPulsar)
 
 # Matrices Calculator
-
+So far, only two matrices can be multiplied together.
 
 ## :pushpin: Table of contents
 
