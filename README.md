@@ -25,6 +25,7 @@
 
 ## Usage
 
+    python3 matrix_calculator.py --help
 
 
 ## ToDo
