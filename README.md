@@ -1,5 +1,4 @@
 [![Author](https://img.shields.io/badge/author-Pulsar7-lightgrey.svg?colorB=9900cc&style=flat-square)](https://github.com/Pulsar7)
-[![Release](https://img.shields.io/github/release/dmhendricks/file-icon-vectors.svg?style=flat-square)](https://github.com/Pulsar7/Matrices-Calculator/releases)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/dmhendricks/file-icon-vectors.svg?style=social)](https://twitter.com/SevenPulsar)
 
 # Matrices Calculator
@@ -8,6 +7,7 @@
 ## :pushpin: Table of contents
 
 * :point_right: [Installation](#installation)
+* :point_right: [Usage](#usage)
 * :point_right: [ToDo](#ToDo)
 * :point_right: [Suggestions & Reports](#suggestions--reports)
 
@@ -23,10 +23,13 @@
     source venv/bin/activate
     pip3 install -r requirements.txt
 
+## Usage
+
 
 
 ## ToDo
-- [ ] 
+- [ ] Add addition and subtraction of matrices
+- [ ] Add the conversion of matrices into determinates
 
 
 ## Suggestions & Reports
